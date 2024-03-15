@@ -22,35 +22,35 @@
 </ol>
 
 <p>Referencias:</p>
-<ol>
+<ul>
   <li>
     <a>https://lnkd.in/dp2t2_Kn</a>
   </li>
   <li>
     <a>https://lnkd.in/d82U5qXq</a>
   </li>
-</ol>
+</ul>
 
 <p>Tutoriales:</p>
 <p>Space Invaders in Unity:</p>
-<ol>
+<ul>
   <li>
     <a>https://lnkd.in/d_PXAUMP</a>
   </li>
-</ol>
+</ul>
 
 <p>Space Invaders en Godot:</p>
-<ol>
+<ul>
   <li>
     <a>https://lnkd.in/d8PhQMDf</a>
   </li>
-</ol>
+</ul>
 
 <p>Space Invaders Gameplay:</p>
-<ol>
+<ul>
   <li>
     <a>https://lnkd.in/dK7-bMZJ</a>
   </li>
-</ol>
+</ul>
 
 <p>#bahiablanca #dvbahia #unity #godot #coding</p>
